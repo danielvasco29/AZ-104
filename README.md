@@ -62,6 +62,5 @@ Capturas de tela do processo de criação e configuração de VMs estão dispon�
 
 ## ✨ Autor
 
-Este repositório foi criado como parte do meu aprendizado na [Digital Innovation One](https://web.dio.me/).
-
+Daniel Vasconcelos
 ---
